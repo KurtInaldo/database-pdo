@@ -1,6 +1,6 @@
 <?php
 
-$host = '127.0.0.1';
+$host = '127.0.0.1:3307';
 $db = 'bobby_tables';
 $user = 'bit_academy';
 $pass = 'bit_academy';
