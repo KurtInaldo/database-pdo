@@ -32,7 +32,7 @@ if (!isset($_SESSION['loggedInUser'])) {
 
         </p>
         <p></p>
-
+        <p></p>
     </div>
     <div>
         <a href="logout.php">Uitloggen</a>
